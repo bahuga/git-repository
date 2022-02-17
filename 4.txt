@@ -1,2 +1,5 @@
 Fourth
-This is the change in main branch
+<<<<<<< HEAD
+=======
+Making some changes in feature1 branch
+>>>>>>> feature1
